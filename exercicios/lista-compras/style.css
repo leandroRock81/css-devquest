@@ -1,0 +1,28 @@
+@charset "UTF-8";
+
+h1{
+    padding: 5px;
+    margin: 10px auto;
+    background-color: aquamarine;
+    width: fit-content;   
+}
+
+div {
+    border: 1px solid;
+}
+
+ol, ul {
+    font-size: 19px;
+}
+
+li {
+    padding: 5px;
+    list-style: disc;
+}
+
+.titulo {
+    background-color: aquamarine;
+    width: fit-content;
+    padding: 5px;
+    margin-top: 10px;
+}

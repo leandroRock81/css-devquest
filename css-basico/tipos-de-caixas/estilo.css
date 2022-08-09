@@ -1,0 +1,12 @@
+span{
+    background-color: aqua;
+    width: 200px;
+    height: 200px;
+}
+
+a{
+    background-color: aqua;
+    width: 200px;
+    height: 200px;
+}
+/* por ser um elemento inline nao é possível aplicar altura e largura como width e height para isso seria necessario torna-lo display block*/

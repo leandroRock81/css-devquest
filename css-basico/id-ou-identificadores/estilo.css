@@ -1,0 +1,15 @@
+p#descricao {
+    background-color: antiquewhite;
+    width: max-content;
+    padding: 10px;
+}
+
+p.descricao-pc {
+    background-color: aqua;
+    width: fit-content;
+    padding: 10px;
+}
+
+p.promocao {
+    text-decoration: underline;
+}

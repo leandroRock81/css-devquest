@@ -1,0 +1,23 @@
+@charset "UTF-8";
+
+div {
+    width: 100px;
+    height: 100px;
+    padding: 10px;
+    border: 10px solid green;
+    margin: 20px auto;
+}
+
+div.com-border-box {
+    background-color: aquamarine;
+    box-sizing: border-box;
+    margin-bottom: 10px;
+}
+
+div.sem-border-box {
+    background-color: blue;
+}
+
+/* sem border box a largura total é = largura + padding + padding + border + border ou seja 140 a mesma coisa para altura*/
+
+/* com border box ele obedece a medida especificada ajustando o elemento de dentro para ajustar os 100 largura */

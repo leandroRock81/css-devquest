@@ -1,0 +1,12 @@
+@charset "UTF-8";
+
+*{
+    margin: 0;
+    padding: 0;
+}
+p{
+   margin: 20px;
+   padding: 10px;
+   border: 2px solid;
+   background-color: rgb(152, 215, 215);
+}

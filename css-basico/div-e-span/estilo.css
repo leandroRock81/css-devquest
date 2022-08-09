@@ -1,0 +1,32 @@
+h2{
+    background-color: bisque;
+    width: max-content;
+    padding: 10px;
+}
+
+div.produtos{
+    background-color: rgb(207, 179, 142);
+}
+
+div.pc{
+    background-color: aqua;
+}
+
+p.promocao{
+    text-decoration: underline;
+}
+
+.produtos span{
+    background-color: aliceblue;
+    color: red;
+    font-size: large;
+}
+
+.pc span{
+    background-color: wheat;
+    font-size: 24px;
+    padding: 5px;
+    display: inline-block;
+}
+
+/* nota-se que ha 2 spans porem recebem estilos diferentes ao identificar primeiro a classe da div em que eles se encontram caso não fosse feito isto eles receberiam a mesma configuracao */

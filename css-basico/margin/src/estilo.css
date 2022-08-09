@@ -1,0 +1,10 @@
+@charset "UTF-8";
+
+p{
+    margin: 20px 10px;
+    padding: 20px 10px;
+    text-align: justify;
+    border: 10px solid;
+    border-color: rgb(133, 127, 255) yellow red green ;
+    background-color: aqua;
+}

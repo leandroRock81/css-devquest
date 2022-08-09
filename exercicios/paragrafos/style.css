@@ -1,0 +1,28 @@
+@charset "UTF-8";
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+h1 {
+    text-align: center;
+    margin: 25px;
+}
+
+.destacado, .padrao{
+    padding: 20px;
+}
+
+.padrao {
+    background-color: #f5F5F5;
+    margin-bottom: 40px;
+}
+
+.destacado {
+    background-color: #F0CCE2;
+}
+
+
+

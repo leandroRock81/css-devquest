@@ -1,0 +1,38 @@
+@charset "UTF-8";
+
+html {
+    background-color: rgba(0, 0, 0, 0.478);
+    
+}
+
+/* 1 em = 16px */
+
+body {
+    background-color: black;
+    width: 50%;
+    font-size: 3em;
+    color: white;
+}
+
+h1 {
+    color: white;
+}
+
+.pai {
+    background-color: aqua;
+    font-size: 1.5em;
+    width: 50%;
+    color: black;
+}
+
+/* como o pai body tem 3em ou 48px tamanho colocando 1.5em nos filhos eles tem 72px tamanho fonte ou 48 x 1.5*/
+
+.filha {
+    background-color: #1de9b6;
+    width: 50%;
+    font-size: 2em;
+}
+/* como a div pai tem 1.5em colocando 2em na filha a filha tem 1.5 x 2  */
+p {
+    color: white;
+}

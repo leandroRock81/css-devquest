@@ -1,0 +1,9 @@
+@charset "UTF-8";
+
+.pixel {
+    width: 100px;
+    height: 100px;
+    background-color: aqua;
+}
+
+/* Ao usar medidas fixas como pixel os elementos não se ajustam a tela */
